@@ -12,8 +12,8 @@ import java.util.ArrayList;
 
 public class DBHandler extends SQLiteOpenHelper {
 
-    private static final String DB_NAME = "proof3";
-    private static final String TABLE_NAME = "final4";
+    private static final String DB_NAME = "location11";
+    private static final String TABLE_NAME = "geocoding11";
     private static final String IDS_COL = "id";
     private static final String ADDRESSES_COL = "address";
     private static final String LATITUDE_COL = "latitude";
